@@ -1,0 +1,47 @@
+
+
+
+p {
+	color: red;
+}
+
+h1 { 
+	font-family: "Gill Sans", "Times", serif;
+	font-weight: lighter;
+	border: 1px dashed red;
+}
+
+.green-background {
+	background-color: green;
+}
+
+.purple_background {
+	background-color: purple;
+}
+
+.red_background {
+	background-color: red;
+}
+
+#main-content{
+	padding: 100px 20px 10px 100px;
+	margin: 0px 0px 0px 500px;
+	border: 5px solid black;
+
+}
+
+::selection {
+	background-color: red;
+}
+
+.image {
+	height: 50%;
+	width: 50%;
+}
+.image-container {
+	background-color: blue;
+	display: inline;
+	width: 1000px;
+
+}
+
